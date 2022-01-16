@@ -66,6 +66,26 @@ img {
   text-align: center;
 }
 
+#github-logo {
+  height: 32px;
+  width: 32px;
+}
+
+#codepen-logo {
+  height: 32px;
+  width: 32px;
+}
+
+#replit-logo {
+  height: 32px;
+  width: auto;
+}
+
+#free-code-camp-logo {
+  height: 32px;
+  width: auto;
+}
+
 @media only screen and (max-width: 900px) {
   body {
     background-color: white;
