@@ -51,9 +51,15 @@ img {
    width: 800px;
    margin: auto;
 }
+
+.project-tile:hover {
+  background-color: #cccc00;
+}
+
 #contact {
   text-align: center;
 }
+
 @media only screen and (max-width: 900px) {
   body {
     background-color: white;
