@@ -56,6 +56,12 @@ img {
   background-color: #cccc00;
 }
 
+.tile-link {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
 #contact {
   text-align: center;
 }
