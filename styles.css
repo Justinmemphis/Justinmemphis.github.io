@@ -1,0 +1,54 @@
+body {
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  background: #666666;
+}
+
+#content {
+  display: flex;
+  flex-wrap: wrap;
+  flex-flow: center;
+  background: #cccccc;
+  color: #000000;
+  margin: auto;
+  padding: 10px;
+  justify-content: space-around;
+}
+
+#navbar {
+  width: 100%;
+  text-align: center;
+  color: black;
+}
+
+#welcome-section {
+  width: 100%;
+  text-align: center;
+  color: black;
+  }
+
+#projects {
+  display: flex;
+  width: 100%;
+  text-align: center;
+  color: black;
+}
+
+.project-tile {
+   background-color: #999999;
+   padding: 10px;
+   border-width: 5px;
+   border-color: black;
+   border-style: solid;
+   width: 50%;
+   margin: auto;
+}
+#contact {
+  text-align: center;
+}
+@media only screen and (max-width: 900px) {
+  body {
+    background-color: white;
+  }
+}
