@@ -34,7 +34,7 @@ img {
   color: black;
   }
 
-#projects {
+.projects {
   display: flex;
   flex-wrap: wrap;
   width: 100%;
