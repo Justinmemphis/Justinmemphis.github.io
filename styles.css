@@ -32,7 +32,7 @@ img {
   width: 100%;
   text-align: center;
   color: black;
-  }
+}
 
 .projects {
   display: flex;
@@ -69,6 +69,21 @@ img {
 .logo {
   height: 32px;
   width: auto;
+}
+
+table, th, td {
+  border: 1px solid black;
+  padding: 10px;
+  margin: auto;
+}
+
+.disabled {
+  pointer-events: none;
+}
+
+.spacer {
+  height:3cm;
+  background: #999999;
 }
 
 @media only screen and (max-width: 900px) {
