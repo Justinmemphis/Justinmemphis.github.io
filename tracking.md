@@ -5,6 +5,9 @@ To-do:
 3. ~~Add glitch profile link? w/ logo?~~ - not really any active projects there; ignoring as of 07/19/22
 
 Summary - ************************************************************************ this is 72 characters
+07/20/22 #3:
+Summary - fixing typographical errors in data
+
 07/20/22 #2:
 Summary - adjusted table row spacers for better mobile viewing
 Details - after viewing on mobile, changed spacers to every 3 candidates instead of every 5
