@@ -5,7 +5,12 @@ To-do:
 3. ~~Add glitch profile link? w/ logo?~~ - not really any active projects there; ignoring as of 07/19/22
 
 Summary - ************************************************************************ this is 72 characters
-07/20/22:
+07/20/22 #2:
+Summary - adjusted table row spacers for better mobile viewing
+Details - after viewing on mobile, changed spacers to every 3 candidates instead of every 5
+Fix for footer printing issue (didn't resolve) - https://stackoverflow.com/questions/2744690/preventing-fixed-footer-from-overlapping-content
+
+07/20/22 #1:
 Summary - created August 4, 2022 election page
 Details - checking data; tweaking print output
 
