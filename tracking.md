@@ -4,7 +4,13 @@ To-do:
 2. Dynamic react content?
 3. ~~Add glitch profile link? w/ logo?~~ - not really any active projects there; ignoring as of 07/19/22
 
-Summary - ************************************************************************ this is 72 characters
+- Summary - ************************************************************************ this is 72 characters
+
+1. 08/11/22:
+ - Summary - prevent crawling of election guide page
+ - Details - researching robots.txt to see how to block election website from search results; putting noindex on election page
+
+
 07/20/22 #3:
 Summary - fixing typographical errors in data
 
