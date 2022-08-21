@@ -6,6 +6,10 @@ To-do:
 
 - Summary - ************************************************************************ this is 72 characters
 
+2. 08/21/22:
+ - Summary - looking into adding stock-quote build; will need to work on server setup
+ - Details -
+
 1. 08/11/22:
  - Summary - prevent crawling of election guide page
  - Details - researching robots.txt to see how to block election website from search results; putting noindex on election page
