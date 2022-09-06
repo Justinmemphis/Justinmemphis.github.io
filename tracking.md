@@ -6,6 +6,10 @@ To-do:
 
 - Summary - ************************************************************************ this is 72 characters
 
+3. 09/06/22:
+ - Summary - update stock quote webpage to point to server version on replit
+ - Details -
+
 2. 08/21/22:
  - Summary - looking into adding stock-quote build; will need to work on server setup
  - Details -
