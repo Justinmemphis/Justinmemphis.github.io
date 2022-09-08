@@ -6,6 +6,9 @@ To-do:
 
 - Summary - ************************************************************************ this is 72 characters
 
+4. 09/07/22:
+ - Summary - update stock quote webpage screenshot to show charting
+
 3. 09/06/22:
  - Summary - update stock quote webpage to point to server version on replit
  - Details -
