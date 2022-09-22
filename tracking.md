@@ -6,6 +6,9 @@ To-do:
 
 - Summary - ************************************************************************ this is 72 characters
 
+5. 09/21/22:
+ - Summary - add stack overflow profile link to bottom of page
+
 4. 09/07/22:
  - Summary - update stock quote webpage screenshot to show charting
 
