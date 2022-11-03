@@ -6,6 +6,8 @@ To-do:
 
 - Summary - ************************************************************************ this is 72 characters
 
+6. 11/03/22: - AWS troubleshooting - S3 and Route 53 appear to be setup correctly; problem appears to be CloudFront
+
 5. 09/21/22:
  - Summary - add stack overflow profile link to bottom of page
 
